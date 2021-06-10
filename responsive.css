@@ -1,0 +1,131 @@
+@media screen and (max-width: 1200px) {
+    .logo img {
+        width: 251px;
+        margin-top: 30%;
+        margin-left: 7%; 
+    }
+    
+    .header {
+        width: 179%;
+        height: 170vh;
+    }
+    
+    .header .header-left {
+        margin-top: 157%;
+        margin-left: 9%;
+    }
+
+    .header-right form {
+        margin-bottom: 130%;
+        height: 484px;
+        margin-left: -25.5em;
+    }
+    
+    .header header .header-layer {
+        padding: 0;
+    }
+
+    .header-left h1 {
+        font-size: 36px;
+    }
+    
+    .header-left p {
+        font-size: 24px;
+        margin-bottom: 5%;
+    }
+    
+    .header-left h3 {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .main {
+        margin: 0%;
+    }
+
+    .main h2 {
+        margin-top: 16%;
+        margin-left: 5%;
+    }
+    
+    .main .main-line {
+        width: 145px;
+        margin-bottom: 15%;
+        margin-top: 5%;
+        margin-left: 31%;
+    }
+
+    .main iframe {
+        width: 26em;
+    }
+
+    #features {
+        display: none;
+    }
+
+    .article {
+        width: 105%;
+    }
+
+    .article h2 {
+        margin-left: 23%;
+        margin-right: 20%;
+    }
+
+    .article .article-line {
+        width: 147px;
+        margin-left: 35%;
+    }
+
+    .article .accordion {
+        font-size: 18px;
+    }
+
+    .learning {
+        margin-top: 3%;
+        margin-bottom: 3%;
+    }
+
+    .learning h2 {
+        margin-top: 5%;
+        margin-left: 16%;
+    }
+
+    .learning .learning-line {
+        margin-left: 38%;
+        width: 40%;
+        margin-bottom: 15%;
+    }
+
+    .learning p {
+        margin-left: 8%;
+        font-size: 17px;
+    }
+
+    .col-2 img {
+        margin-left: -7%;
+        width: 121%;
+    }
+
+    .grid-column {
+        display: block ;
+        font-size: 17px;
+    }
+
+    .grid-column .col-1 {
+        margin-left: 0%;
+    }
+
+    .about {
+        margin-top: 40%;
+        margin-right: -3%;
+    }
+
+    .about .about-col-2 .explore-col-1 p {
+        display: none;
+    }
+
+    .about .about-col-2 .explore-col-2 button {
+        transform: translate(-83%, -10%);
+    }
+}
